@@ -1,0 +1,13 @@
+.machine{
+    background-color: bisque;
+    border: dashed brown 3px;
+    height: 300px;
+    width : 900px;
+    margin: 50px;
+    z-index: 5;
+    display: flex;
+    overflow: hidden;
+}
+.slot{
+    height: 50px;
+}
